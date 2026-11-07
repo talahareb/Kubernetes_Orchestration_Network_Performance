@@ -174,8 +174,8 @@ The tests check YAML structure and relationships between Kubernetes resources.
 
 ## Contributors
 
-**Politecnico di Torino — Mobile and Sensor Networks **  
-** Tala Hareb · Ahmad Mansour · Malak E. M. Alashi · Zaynab Hojeij
+**Politecnico di Torino — Mobile and Sensor Networks**  
+**Tala Hareb · Ahmad Mansour · Malak E. M. Alashi · Zaynab Hojeij**
 
 ## References
 
