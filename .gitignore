@@ -1,0 +1,12 @@
+__pycache__/
+.pytest_cache/
+.DS_Store
+.env
+*.pem
+*.key
+*.crt
+*.log
+*.pcap
+*.pcapng
+*.secret.yaml
+secrets/
